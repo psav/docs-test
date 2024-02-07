@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: psav-test
   description: The place to be, for great artists
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/psav/docs-test/
 spec:
   type: service
   lifecycle: production
