@@ -1,6 +1,6 @@
 # Testing
 
-```puml
+```plantuml
 @startuml sign_in_sequence  
   
 title "Sign In Sequence Diagram"  
