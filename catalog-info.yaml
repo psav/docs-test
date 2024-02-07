@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: psav-test
+  description: The place to be, for great artists
+spec:
+  type: service
+  lifecycle: production
