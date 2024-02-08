@@ -1,2 +1,6 @@
 docs_dir: docs/
 site_name: Test Documentation
+
+markdown_extensions: 
+  - plantuml_markdown:
+      server: http://plantuml:8080
